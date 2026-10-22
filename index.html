@@ -375,8 +375,11 @@ function renderStages(d){
   const uploadDone = d.pending_total === 0;
 
   const s = d.sharing_counts;
-  const sharePct = s.total > 0 ? Math.round((s.done / s.total) * 1000) / 10 : 0;
-  const shareDone = s.unverified === 0 && s.total > 0;
+  const hasChannelTotal = s.channel_total != null && s.pending != null;
+  const shareDenominator = hasChannelTotal ? s.channel_total : s.total;
+  const sharePct = shareDenominator > 0 ? Math.round((s.done / shareDenominator) * 1000) / 10 : 0;
+  const shareRemaining = hasChannelTotal ? s.pending : s.unverified;
+  const shareDone = shareRemaining === 0;
 
   el.innerHTML = `
     <div class="stage">
@@ -400,10 +403,10 @@ function renderStages(d){
     <div class="stage">
       <span class="num mono">3 / 3</span>
       <h3>私下分享家人帳號</h3>
-      <div class="big">${s.done}<small>完成 / ${s.unverified} 待確認</small></div>
+      <div class="big">${s.done}<small>${hasChannelTotal ? `完成 / ${s.pending} 支尚未分享` : `完成 / ${s.unverified} 待確認`}</small></div>
       <div class="bar"><span style="width:${sharePct}%;background:${shareDone ? "var(--good)" : "var(--signal)"}"></span></div>
-      <div class="caption">此輪已處理 ${s.total} 支。YouTube Studio 會對密集編輯頻繁跳出保護機制,所以用較長間隔分批跑,常態性斷續執行。</div>
-      <span class="chip ${shareDone ? "good" : "signal"}">${shareDone ? "本輪已完成" : "背景執行中"}</span>
+      <div class="caption">${hasChannelTotal ? `頻道總共 ${s.channel_total} 支,還有 ${s.pending} 支沒處理(含 ${s.unverified} 支狀態待確認)。` : `此輪已處理 ${s.total} 支。`}今天已分享 ${s.shared_today} 支。YouTube Studio 會對密集編輯頻繁跳出保護機制,所以用較長間隔分批跑,常態性斷續執行。</div>
+      <span class="chip ${shareDone ? "good" : "signal"}">${shareDone ? "全部完成" : "進行中"}</span>
     </div>`;
 }
 

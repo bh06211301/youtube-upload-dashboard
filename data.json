@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 11:45",
+  "generated_at": "2026-10-22 12:39",
   "uploaded_total": 127,
   "pending_total": 220,
   "quota_cap": 6,
@@ -12,7 +12,7 @@
   "last_upload": {
     "at_short": "10-21 19:18",
     "date": "2026-09-19",
-    "seq": 51
+    "seq": 50
   },
   "privacy_total_recorded": 160,
   "sharing_counts": {
@@ -592,17 +592,25 @@
       ]
     },
     {
-      "date": "2026-09-19",
-      "playlist_id": "PLYTmQsa1t_Hg",
-      "count": 51,
-      "shared_done": 33,
+      "date": "2026-09-18",
+      "playlist_id": "PLc1DWdaAOL_g",
+      "count": 1,
+      "shared_done": 1,
       "videos": [
         {
           "id": "UDNm00aBinU",
           "filename": "DJI_20260919053442_0017_D.MP4",
           "uploaded_at": "2026-10-08 09:54",
           "shared": "done"
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "playlist_id": "PLYTmQsa1t_Hg",
+      "count": 50,
+      "shared_done": 32,
+      "videos": [
         {
           "id": "2XHHjMNcJvE",
           "filename": "DJI_20260919120211_0018_D.MP4",

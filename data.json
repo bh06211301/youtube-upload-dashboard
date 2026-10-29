@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29 12:13",
+  "generated_at": "2026-10-29 20:57",
   "uploaded_total": 145,
   "pending_total": 202,
   "quota_cap": 6,
-  "quota_today_used": 6,
+  "quota_today_used": 0,
   "playlists_count": 5,
   "playlists_date_range": [
     "2026-05-30",
@@ -19,8 +19,8 @@
     "done": 151,
     "unverified": 1,
     "total": 152,
-    "channel_total": 237,
-    "pending": 86,
+    "channel_total": 243,
+    "pending": 92,
     "shared_today": 0
   },
   "daily_uploads": [

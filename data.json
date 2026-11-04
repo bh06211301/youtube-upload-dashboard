@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04 09:37",
-  "uploaded_total": 163,
-  "pending_total": 184,
+  "generated_at": "2026-11-04 18:52",
+  "uploaded_total": 169,
+  "pending_total": 178,
   "quota_cap": 6,
   "quota_today_used": 6,
   "playlists_count": 9,
@@ -10,9 +10,9 @@
     "2026-09-19"
   ],
   "last_upload": {
-    "at_short": "11-04 09:36",
+    "at_short": "11-04 18:52",
     "date": "2026-03-30",
-    "seq": 7
+    "seq": 6
   },
   "privacy_total_recorded": 160,
   "sharing_counts": {
@@ -134,146 +134,50 @@
     ],
     [
       "11-04",
-      6
+      12
     ]
   ],
   "groups": [
     {
-      "date": "2015-01-01",
-      "playlist_id": "PLJCBGySyvads",
-      "count": 1,
-      "shared_done": 0,
-      "videos": [
-        {
-          "id": "5XFq1qr_a-U",
-          "filename": "GPBK3387.MP4",
-          "uploaded_at": "2026-11-02 10:30",
-          "shared": "pending"
-        }
-      ]
-    },
-    {
-      "date": "2015-01-10",
-      "playlist_id": "PLEyT9jjrSjtA",
-      "count": 5,
-      "shared_done": 0,
-      "videos": [
-        {
-          "id": "NF1Dk5V1kIo",
-          "filename": "GPBK3382.MP4",
-          "uploaded_at": "2026-11-02 10:25",
-          "shared": "pending"
-        },
-        {
-          "id": "NKs1tF-1J1Q",
-          "filename": "GPBK3383.MP4",
-          "uploaded_at": "2026-11-02 10:27",
-          "shared": "pending"
-        },
-        {
-          "id": "VnbqlLdcGvU",
-          "filename": "GPBK3384.MP4",
-          "uploaded_at": "2026-11-02 10:28",
-          "shared": "pending"
-        },
-        {
-          "id": "EwmYbx-WKLg",
-          "filename": "GPBK3385.MP4",
-          "uploaded_at": "2026-11-02 10:28",
-          "shared": "pending"
-        },
-        {
-          "id": "_jAVsxuOUt8",
-          "filename": "GPBK3386.MP4",
-          "uploaded_at": "2026-11-02 10:30",
-          "shared": "pending"
-        }
-      ]
-    },
-    {
-      "date": "2015-03-10",
-      "playlist_id": "PLbJfJE5ihmcw",
-      "count": 5,
-      "shared_done": 0,
-      "videos": [
-        {
-          "id": "07PtsdiK1Xk",
-          "filename": "GPBK3388.MP4",
-          "uploaded_at": "2026-11-02 20:11",
-          "shared": "pending"
-        },
-        {
-          "id": "Xl5i-4_RF6s",
-          "filename": "GPBK3389.MP4",
-          "uploaded_at": "2026-11-02 20:17",
-          "shared": "pending"
-        },
-        {
-          "id": "7gP4Zp2MwZQ",
-          "filename": "GPBK3390.MP4",
-          "uploaded_at": "2026-11-02 20:20",
-          "shared": "pending"
-        },
-        {
-          "id": "gfW4kFu_lKQ",
-          "filename": "GPBK3391.MP4",
-          "uploaded_at": "2026-11-02 20:35",
-          "shared": "pending"
-        },
-        {
-          "id": "bESf0h2e2_Y",
-          "filename": "GPBK3392.MP4",
-          "uploaded_at": "2026-11-02 20:48",
-          "shared": "pending"
-        }
-      ]
-    },
-    {
       "date": "2026-03-30",
       "playlist_id": "PLaykTiIjlgWk",
-      "count": 7,
+      "count": 6,
       "shared_done": 0,
       "videos": [
         {
-          "id": "LfJdCb7yFhY",
-          "filename": "GPBK3404.MP4",
-          "uploaded_at": "2026-11-03 11:21",
+          "id": "noFRW-FaUAc",
+          "filename": "GPBK3411.MP4",
+          "uploaded_at": "2026-11-04 18:32",
           "shared": "pending"
         },
         {
-          "id": "bO_Lcp-u7YU",
-          "filename": "GPBK3405.MP4",
-          "uploaded_at": "2026-11-04 09:29",
+          "id": "OTrKSUmtm-E",
+          "filename": "GPBK3423.MP4",
+          "uploaded_at": "2026-11-04 18:33",
           "shared": "pending"
         },
         {
-          "id": "hRasPJ8AgcY",
-          "filename": "GPBK3406.MP4",
-          "uploaded_at": "2026-11-04 09:32",
+          "id": "Ll3okLNRWM8",
+          "filename": "GPBK3424.MP4",
+          "uploaded_at": "2026-11-04 18:36",
           "shared": "pending"
         },
         {
-          "id": "HV1kaHmGs74",
-          "filename": "GPBK3407.MP4",
-          "uploaded_at": "2026-11-04 09:33",
+          "id": "vjwy7tyi9Rk",
+          "filename": "GPBK3425.MP4",
+          "uploaded_at": "2026-11-04 18:46",
           "shared": "pending"
         },
         {
-          "id": "_RpH6HTv9GE",
-          "filename": "GPBK3408.MP4",
-          "uploaded_at": "2026-11-04 09:35",
+          "id": "pxlW7cjS3aU",
+          "filename": "GPBK3426.MP4",
+          "uploaded_at": "2026-11-04 18:50",
           "shared": "pending"
         },
         {
-          "id": "jmK_3gX3uNg",
-          "filename": "GPBK3409.MP4",
-          "uploaded_at": "2026-11-04 09:36",
-          "shared": "pending"
-        },
-        {
-          "id": "mz2H8z8HU3o",
-          "filename": "GPBK3410.MP4",
-          "uploaded_at": "2026-11-04 09:36",
+          "id": "T0X2vBlWQoY",
+          "filename": "GPBK3427.MP4",
+          "uploaded_at": "2026-11-04 18:52",
           "shared": "pending"
         }
       ]
@@ -1187,77 +1091,193 @@
           "shared": "done"
         }
       ]
+    },
+    {
+      "date": "unknown",
+      "playlist_id": "",
+      "count": 18,
+      "shared_done": 0,
+      "videos": [
+        {
+          "id": "NF1Dk5V1kIo",
+          "filename": "GPBK3382.MP4",
+          "uploaded_at": "2026-11-02 10:25",
+          "shared": "pending"
+        },
+        {
+          "id": "NKs1tF-1J1Q",
+          "filename": "GPBK3383.MP4",
+          "uploaded_at": "2026-11-02 10:27",
+          "shared": "pending"
+        },
+        {
+          "id": "VnbqlLdcGvU",
+          "filename": "GPBK3384.MP4",
+          "uploaded_at": "2026-11-02 10:28",
+          "shared": "pending"
+        },
+        {
+          "id": "EwmYbx-WKLg",
+          "filename": "GPBK3385.MP4",
+          "uploaded_at": "2026-11-02 10:28",
+          "shared": "pending"
+        },
+        {
+          "id": "_jAVsxuOUt8",
+          "filename": "GPBK3386.MP4",
+          "uploaded_at": "2026-11-02 10:30",
+          "shared": "pending"
+        },
+        {
+          "id": "5XFq1qr_a-U",
+          "filename": "GPBK3387.MP4",
+          "uploaded_at": "2026-11-02 10:30",
+          "shared": "pending"
+        },
+        {
+          "id": "07PtsdiK1Xk",
+          "filename": "GPBK3388.MP4",
+          "uploaded_at": "2026-11-02 20:11",
+          "shared": "pending"
+        },
+        {
+          "id": "Xl5i-4_RF6s",
+          "filename": "GPBK3389.MP4",
+          "uploaded_at": "2026-11-02 20:17",
+          "shared": "pending"
+        },
+        {
+          "id": "7gP4Zp2MwZQ",
+          "filename": "GPBK3390.MP4",
+          "uploaded_at": "2026-11-02 20:20",
+          "shared": "pending"
+        },
+        {
+          "id": "gfW4kFu_lKQ",
+          "filename": "GPBK3391.MP4",
+          "uploaded_at": "2026-11-02 20:35",
+          "shared": "pending"
+        },
+        {
+          "id": "bESf0h2e2_Y",
+          "filename": "GPBK3392.MP4",
+          "uploaded_at": "2026-11-02 20:48",
+          "shared": "pending"
+        },
+        {
+          "id": "LfJdCb7yFhY",
+          "filename": "GPBK3404.MP4",
+          "uploaded_at": "2026-11-03 11:21",
+          "shared": "pending"
+        },
+        {
+          "id": "bO_Lcp-u7YU",
+          "filename": "GPBK3405.MP4",
+          "uploaded_at": "2026-11-04 09:29",
+          "shared": "pending"
+        },
+        {
+          "id": "hRasPJ8AgcY",
+          "filename": "GPBK3406.MP4",
+          "uploaded_at": "2026-11-04 09:32",
+          "shared": "pending"
+        },
+        {
+          "id": "HV1kaHmGs74",
+          "filename": "GPBK3407.MP4",
+          "uploaded_at": "2026-11-04 09:33",
+          "shared": "pending"
+        },
+        {
+          "id": "_RpH6HTv9GE",
+          "filename": "GPBK3408.MP4",
+          "uploaded_at": "2026-11-04 09:35",
+          "shared": "pending"
+        },
+        {
+          "id": "jmK_3gX3uNg",
+          "filename": "GPBK3409.MP4",
+          "uploaded_at": "2026-11-04 09:36",
+          "shared": "pending"
+        },
+        {
+          "id": "mz2H8z8HU3o",
+          "filename": "GPBK3410.MP4",
+          "uploaded_at": "2026-11-04 09:36",
+          "shared": "pending"
+        }
+      ]
     }
   ],
   "recent": [
     {
+      "id": "T0X2vBlWQoY",
+      "filename": "GPBK3427.MP4",
+      "uploaded_at": "2026-11-04 18:52",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
+      "id": "pxlW7cjS3aU",
+      "filename": "GPBK3426.MP4",
+      "uploaded_at": "2026-11-04 18:50",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
+      "id": "vjwy7tyi9Rk",
+      "filename": "GPBK3425.MP4",
+      "uploaded_at": "2026-11-04 18:46",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
+      "id": "Ll3okLNRWM8",
+      "filename": "GPBK3424.MP4",
+      "uploaded_at": "2026-11-04 18:36",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
+      "id": "OTrKSUmtm-E",
+      "filename": "GPBK3423.MP4",
+      "uploaded_at": "2026-11-04 18:33",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
+      "id": "noFRW-FaUAc",
+      "filename": "GPBK3411.MP4",
+      "uploaded_at": "2026-11-04 18:32",
+      "date": "2026-03-30",
+      "shared": "pending"
+    },
+    {
       "id": "mz2H8z8HU3o",
       "filename": "GPBK3410.MP4",
       "uploaded_at": "2026-11-04 09:36",
-      "date": "2026-03-30",
+      "date": "unknown",
       "shared": "pending"
     },
     {
       "id": "jmK_3gX3uNg",
       "filename": "GPBK3409.MP4",
       "uploaded_at": "2026-11-04 09:36",
-      "date": "2026-03-30",
+      "date": "unknown",
       "shared": "pending"
     },
     {
       "id": "_RpH6HTv9GE",
       "filename": "GPBK3408.MP4",
       "uploaded_at": "2026-11-04 09:35",
-      "date": "2026-03-30",
+      "date": "unknown",
       "shared": "pending"
     },
     {
       "id": "HV1kaHmGs74",
       "filename": "GPBK3407.MP4",
       "uploaded_at": "2026-11-04 09:33",
-      "date": "2026-03-30",
-      "shared": "pending"
-    },
-    {
-      "id": "hRasPJ8AgcY",
-      "filename": "GPBK3406.MP4",
-      "uploaded_at": "2026-11-04 09:32",
-      "date": "2026-03-30",
-      "shared": "pending"
-    },
-    {
-      "id": "bO_Lcp-u7YU",
-      "filename": "GPBK3405.MP4",
-      "uploaded_at": "2026-11-04 09:29",
-      "date": "2026-03-30",
-      "shared": "pending"
-    },
-    {
-      "id": "LfJdCb7yFhY",
-      "filename": "GPBK3404.MP4",
-      "uploaded_at": "2026-11-03 11:21",
-      "date": "2026-03-30",
-      "shared": "pending"
-    },
-    {
-      "id": "bESf0h2e2_Y",
-      "filename": "GPBK3392.MP4",
-      "uploaded_at": "2026-11-02 20:48",
-      "date": "2015-03-10",
-      "shared": "pending"
-    },
-    {
-      "id": "gfW4kFu_lKQ",
-      "filename": "GPBK3391.MP4",
-      "uploaded_at": "2026-11-02 20:35",
-      "date": "2015-03-10",
-      "shared": "pending"
-    },
-    {
-      "id": "7gP4Zp2MwZQ",
-      "filename": "GPBK3390.MP4",
-      "uploaded_at": "2026-11-02 20:20",
-      "date": "2015-03-10",
+      "date": "unknown",
       "shared": "pending"
     }
   ]

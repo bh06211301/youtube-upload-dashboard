@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16 18:39",
-  "uploaded_total": 224,
-  "pending_total": 123,
+  "generated_at": "2026-11-18 11:37",
+  "uploaded_total": 230,
+  "pending_total": 117,
   "quota_cap": 6,
   "quota_today_used": 6,
   "playlists_count": 13,
@@ -10,9 +10,9 @@
     "2026-09-27"
   ],
   "last_upload": {
-    "at_short": "11-16 18:39",
+    "at_short": "11-18 11:37",
     "date": "2026-09-27",
-    "seq": 19
+    "seq": 25
   },
   "privacy_total_recorded": 160,
   "sharing_counts": {
@@ -162,6 +162,10 @@
     ],
     [
       "11-16",
+      6
+    ],
+    [
+      "11-18",
       6
     ]
   ],
@@ -1363,7 +1367,7 @@
     {
       "date": "2026-09-27",
       "playlist_id": "PLAr_xGYhSB-g",
-      "count": 19,
+      "count": 25,
       "shared_done": 0,
       "videos": [
         {
@@ -1478,6 +1482,42 @@
           "id": "VrFgUY4mRE4",
           "filename": "DJI_20260927153429_0034_D.MP4",
           "uploaded_at": "2026-11-16 18:39",
+          "shared": "pending"
+        },
+        {
+          "id": "_-dfNkt9kC8",
+          "filename": "DJI_20260927153531_0035_D.MP4",
+          "uploaded_at": "2026-11-18 11:33",
+          "shared": "pending"
+        },
+        {
+          "id": "DgAW2NC7KkQ",
+          "filename": "DJI_20260927160707_0036_D.MP4",
+          "uploaded_at": "2026-11-18 11:34",
+          "shared": "pending"
+        },
+        {
+          "id": "F3-agI9wE5M",
+          "filename": "DJI_20260927174634_0037_D.MP4",
+          "uploaded_at": "2026-11-18 11:34",
+          "shared": "pending"
+        },
+        {
+          "id": "MhqsLNoNy_s",
+          "filename": "DJI_20260927175752_0038_D.MP4",
+          "uploaded_at": "2026-11-18 11:34",
+          "shared": "pending"
+        },
+        {
+          "id": "-bC17OxQG3Q",
+          "filename": "DJI_20260927203526_0039_D.MP4",
+          "uploaded_at": "2026-11-18 11:36",
+          "shared": "pending"
+        },
+        {
+          "id": "p3kQJWBWqZg",
+          "filename": "DJI_20260927203813_0040_D.MP4",
+          "uploaded_at": "2026-11-18 11:37",
           "shared": "pending"
         }
       ]
@@ -1601,6 +1641,48 @@
   ],
   "recent": [
     {
+      "id": "p3kQJWBWqZg",
+      "filename": "DJI_20260927203813_0040_D.MP4",
+      "uploaded_at": "2026-11-18 11:37",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
+      "id": "-bC17OxQG3Q",
+      "filename": "DJI_20260927203526_0039_D.MP4",
+      "uploaded_at": "2026-11-18 11:36",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
+      "id": "MhqsLNoNy_s",
+      "filename": "DJI_20260927175752_0038_D.MP4",
+      "uploaded_at": "2026-11-18 11:34",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
+      "id": "F3-agI9wE5M",
+      "filename": "DJI_20260927174634_0037_D.MP4",
+      "uploaded_at": "2026-11-18 11:34",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
+      "id": "DgAW2NC7KkQ",
+      "filename": "DJI_20260927160707_0036_D.MP4",
+      "uploaded_at": "2026-11-18 11:34",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
+      "id": "_-dfNkt9kC8",
+      "filename": "DJI_20260927153531_0035_D.MP4",
+      "uploaded_at": "2026-11-18 11:33",
+      "date": "2026-09-27",
+      "shared": "pending"
+    },
+    {
       "id": "VrFgUY4mRE4",
       "filename": "DJI_20260927153429_0034_D.MP4",
       "uploaded_at": "2026-11-16 18:39",
@@ -1625,48 +1707,6 @@
       "id": "p2Lob9mgRs4",
       "filename": "DJI_20260927144747_0031_D.MP4",
       "uploaded_at": "2026-11-16 18:09",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "CB1n_fWB0ic",
-      "filename": "DJI_20260927144438_0030_D.MP4",
-      "uploaded_at": "2026-11-16 18:01",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "blh1LIhbd4g",
-      "filename": "DJI_20260927144353_0029_D.MP4",
-      "uploaded_at": "2026-11-16 17:58",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "g61L-jeuflc",
-      "filename": "DJI_20260927144054_0028_D.MP4",
-      "uploaded_at": "2026-11-15 19:56",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "Vpdl1bAWOJ4",
-      "filename": "DJI_20260927142412_0027_D.MP4",
-      "uploaded_at": "2026-11-15 19:55",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "cyge1uarXEs",
-      "filename": "DJI_20260927141859_0026_D.MP4",
-      "uploaded_at": "2026-11-15 19:53",
-      "date": "2026-09-27",
-      "shared": "pending"
-    },
-    {
-      "id": "teV2JTg6OEs",
-      "filename": "DJI_20260927141706_0025_D.MP4",
-      "uploaded_at": "2026-11-15 19:51",
       "date": "2026-09-27",
       "shared": "pending"
     }
